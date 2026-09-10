@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/corbinsuddeth/Documents/RockStay/build",
+  "command": "/usr/bin/clang++  -isystem /opt/homebrew/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/Rock-stay.dir/main.cpp.o -c /Users/corbinsuddeth/Documents/RockStay/main.cpp",
+  "file": "/Users/corbinsuddeth/Documents/RockStay/main.cpp",
+  "output": "CMakeFiles/Rock-stay.dir/main.cpp.o"
+}
+]
